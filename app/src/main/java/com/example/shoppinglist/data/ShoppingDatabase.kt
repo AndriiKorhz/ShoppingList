@@ -1,4 +1,4 @@
-package com.example.shoppinglist.repository
+package com.example.shoppinglist.data
 
 import android.content.Context
 import androidx.room.Database

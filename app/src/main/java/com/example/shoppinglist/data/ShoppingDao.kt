@@ -1,4 +1,4 @@
-package com.example.shoppinglist.repository
+package com.example.shoppinglist.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
